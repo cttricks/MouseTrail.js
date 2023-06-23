@@ -72,5 +72,27 @@ The MouseTrail constructor also accepts the following optional initial values:
 ```javascript
 const mouseTrail = new MouseTrail(24, 15, 2, true);
 ```
+### Contribution
+
+Contributions are welcome! If you think you can improve the performance, add more animations, or enhance the effects of MouseTrail.js, we encourage you to contribute to the project.
+
+To contribute, please follow these steps:
+
+1. Fork the repository on GitHub.
+
+2. Create a new branch with a descriptive name for your contribution.
+
+3. Make your modifications, improvements, or additions to the codebase.
+
+4. Test your changes to ensure they work as expected.
+
+5. Commit your changes and push them to your forked repository.
+
+6. Submit a pull request from your branch to the main repository's `master` branch.
+
+We appreciate your contributions and will review your pull request as soon as possible. Feel free to provide any additional context, explanations, or documentation related to your contribution in the pull request description.
+
+Please note that by contributing to the MouseTrail.js project, you agree to release your contributions under the MIT License.
+
 ### License
 MouseTrail.js is released under the MIT License. See the LICENSE file for more details.
